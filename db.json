@@ -5,11 +5,13 @@
       "children": [
         {
           "name": "Egypt",
-        }, {
+        }, 
+        {
           "name": "Uar",
         },
       ]
-    }, {
+    }, 
+    {
       "name": "Antarctica",
     },
   ]
