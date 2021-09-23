@@ -6,22 +6,21 @@
         {
           "name": "Egypt",
           "children": [
-            // ...
           ]
         }, {
           "name": "Uar",
           "children": [
-            // ...
+           
           ]
         },
-        // ...
+        
       ]
     }, {
       "name": "Antarctica",
       "children": [
-        // ...
+       
       ]
     },
-    // ...
+    
   ]
 }
