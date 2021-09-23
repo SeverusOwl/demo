@@ -4,15 +4,15 @@
       "name": "Africa",
       "children": [
         {
-          "name": "Egypt",
+          "name": "Egypt"
         }, 
         {
-          "name": "Uar",
-        },
+          "name": "Uar"
+        }
       ]
     }, 
     {
-      "name": "Antarctica",
-    },
+      "name": "Antarctica"
+    }
   ]
 }
