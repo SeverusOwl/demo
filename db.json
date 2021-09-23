@@ -1,41 +1,41 @@
 {
-"product": {
-    "title": "TITLE HERE",
-    "body_html": "DESCRIPTION HERE",
-    "vendor": "VENDOR HERE",
-    "product_type": "PRODUCT TYPE HERE",
-    "variants": {
-        "option1": "Default",
-        "price": "PRICE HERE"
-    },
-    "images": {
-        "src": "LINK TO IMAGE HERE"
-    }
-},
-"product1": {
-    "title": "TITLE HERE",
-    "body_html": "DESCRIPTION HERE",
-    "vendor": "VENDOR HERE",
-    "product_type": "PRODUCT TYPE HERE",
-    "variants": {
-        "option1": "Default",
-        "price": "PRICE HERE"
-    },
-    "images": {
-        "src": "LINK TO IMAGE HERE"
-    }
-},
-"product2": {
-    "title": "TITLE HERE",
-    "body_html": "DESCRIPTION HERE",
-    "vendor": "VENDOR HERE",
-    "product_type": "PRODUCT TYPE HERE",
-    "variants": {
-        "option1": "Default",
-        "price": "PRICE HERE"
-    },
-    "images": {
-        "src": "LINK TO IMAGE HERE"
-    }
-}
+  "product": {
+      "title": "TITLE HERE",
+      "body_html": "DESCRIPTION HERE",
+      "vendor": "VENDOR HERE",
+      "product_type": "PRODUCT TYPE HERE",
+      "variants": {
+          "option1": "Default",
+          "price": "PRICE HERE"
+      },
+      "images": {
+          "src": "LINK TO IMAGE HERE"
+      }
+  },
+  "product1": {
+      "title": "TITLE HERE",
+      "body_html": "DESCRIPTION HERE",
+      "vendor": "VENDOR HERE",
+      "product_type": "PRODUCT TYPE HERE",
+      "variants": {
+          "option1": "Default",
+          "price": "PRICE HERE"
+      },
+      "images": {
+          "src": "LINK TO IMAGE HERE"
+      }
+  },
+  "product3": {
+      "title": "TITLE HERE",
+      "body_html": "DESCRIPTION HERE",
+      "vendor": "VENDOR HERE",
+      "product_type": "PRODUCT TYPE HERE",
+      "variants": {
+          "option1": "Default",
+          "price": "PRICE HERE"
+      },
+      "images": {
+          "src": "LINK TO IMAGE HERE"
+      }
+  }
 }
