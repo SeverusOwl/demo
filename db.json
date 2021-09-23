@@ -12,7 +12,7 @@
         "src": "LINK TO IMAGE HERE"
     }
 },
-"product": {
+"product1": {
     "title": "TITLE HERE",
     "body_html": "DESCRIPTION HERE",
     "vendor": "VENDOR HERE",
@@ -25,7 +25,7 @@
         "src": "LINK TO IMAGE HERE"
     }
 },
-"product": {
+"product2": {
     "title": "TITLE HERE",
     "body_html": "DESCRIPTION HERE",
     "vendor": "VENDOR HERE",
